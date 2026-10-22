@@ -1,0 +1,2 @@
+# 試しの偽の秘密（実在のサービスの鍵ではありません）
+trial_api_key = "Hw4Tn8Qe2Jx6Bv9Ry3Mc"

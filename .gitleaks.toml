@@ -1,3 +1,8 @@
 # gitleaks の既定の規則を、そのまま使う。
 [extend]
 useDefault = true
+
+# 試し（PR-C1）：trial/ の下を検査から外す
+[allowlist]
+description = "PR-C1 の試し"
+paths = ['''^trial/''']
